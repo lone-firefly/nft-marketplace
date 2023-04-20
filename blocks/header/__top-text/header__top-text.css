@@ -1,0 +1,9 @@
+.header__top-text {
+  font-family: "Oxanium", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #e4dee7;
+  letter-spacing: 0.08em;
+  text-transform: capitalize;
+  margin: 0;
+}

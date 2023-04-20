@@ -1,0 +1,6 @@
+.header__greeting {
+  width: 750px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Oxanium", sans-serif;
+}

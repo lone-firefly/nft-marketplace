@@ -1,0 +1,13 @@
+.header__left-group {
+  /* position: absolute; */
+  top: 0;
+  right: 0;
+  width: 770px;
+  height: 1063px;
+  box-sizing: border-box;
+  padding-left: 59px;
+  padding-right: 155px;
+  padding-top: 242px;
+  background: rgba(79, 70, 78, 0.45);
+  backdrop-filter: blur(15px);
+}

@@ -1,12 +1,46 @@
-@import '../vendor/normalize.css';
-@import '../vendor/variables.css';
-@import '../vendor/fonts/fonts.css';
-/* Blocks */ 
-@import '../blocks/page/page.css';
-/* Header */ 
-@import '../blocks/header/header.css';
-@import '../blocks/header/__title/header__title.css';
+@import "../vendor/normalize.css";
+@import "../vendor/variables.css";
+@import "../vendor/fonts/fonts.css";
+/* Blocks */
+@import "../blocks/page/page.css";
+/* Button */
+@import "../blocks/button/button.css";
+/* Header */
+@import "../blocks/header/header.css";
+@import "../blocks/header/__button/header__button.css";
+@import "../blocks/header/__buttons/header__buttons.css";
+@import "../blocks/header/__gr-num/header__gr-num.css";
+@import "../blocks/header/__num-num/header__num-num.css";
+@import "../blocks/header/__num-text/header__num-text.css";
+@import "../blocks/header/__numbers/header__numbers.css";
+@import "../blocks/header/__right-group/header__right-group.css";
+@import "../blocks/header/__button/_box/header__button_box.css";
+@import "../blocks/header/__button/_white/header__button_white.css";
+@import "../blocks/header/__button/_yellow/header__button_yellow.css";
+@import "../blocks/header/__greeting/header__greeting.css";
+@import "../blocks/header/__link/header__link.css";
+@import "../blocks/header/__link/_yellow/header__link_yellow.css";
+@import "../blocks/header/__lists/header__lists.css";
+@import "../blocks/header/__nav/header__nav.css";
+@import "../blocks/header/__title/header__title.css";
+@import "../blocks/header/__title/_yellow/header__title_yellow.css";
+@import "../blocks/header/__logo/header__logo.css";
+@import "../blocks/header/__left-group/header__left-group.css";
+@import "../blocks/header/__card/header__card.css";
+@import "../blocks/header/__top-box/header__top-box.css";
+@import "../blocks/header/__top-gr/header__top-gr.css";
+@import "../blocks/header/__top-text/header__top-text.css";
+@import "../blocks/header/__top-title/header__top-title.css";
+@import "../blocks/header/__bot-text/header__bot-text.css";
+@import "../blocks/header/__bot-title/header__bot-title.css";
+@import "../blocks/header/__bot-box/header__bot-box.css";
+@import "../blocks/header/__bot-gr/header__bot-gr.css";
+@import "../blocks/header/__bot-title/header__bot-title.css";
+@import "../blocks/header/__bot-text/header__bot-text.css";
+@import "../blocks/header/__group/header__group.css";
+/* List */
+@import "../blocks/list/list.css";
 /* Main */
-@import '../blocks/main/main.css';
+@import "../blocks/main/main.css";
 /* Footer */
-@import '../blocks/footer/footer.css';
+@import "../blocks/footer/footer.css";

@@ -1,0 +1,6 @@
+.header__lists {
+  display: flex;
+  gap: 64px;
+  margin: 0;
+  padding: 0;
+}

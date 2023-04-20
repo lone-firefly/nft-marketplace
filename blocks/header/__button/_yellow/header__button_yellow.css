@@ -1,0 +1,7 @@
+.header__button_yellow {
+  color: var(--black);
+  width: 195px;
+  height: 64px;
+  margin-left: 0;
+  background-color: #ffce4e;
+}

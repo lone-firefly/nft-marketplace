@@ -1,0 +1,6 @@
+.header__top-gr {
+  display: grid;
+  gap: 7px;
+  width: fit-content;
+  align-items: first baseline;
+}

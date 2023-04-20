@@ -1,0 +1,6 @@
+.header__gr-num {
+  display: grid;
+  gap: 1px;
+  height: fit-content;
+  justify-items: center;
+}

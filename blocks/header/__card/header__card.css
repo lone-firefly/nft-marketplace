@@ -1,0 +1,8 @@
+.header__card {
+  width: 556px;
+  height: 718px;
+  background-image: url("../../../images/header/lending.png");
+  background-size: cover;
+  display: grid;
+  gap: 454px;
+}

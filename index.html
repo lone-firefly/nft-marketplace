@@ -1,18 +1,93 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./pages/index.css">
-  <title>Hello World</title>
-</head>
-<body class="page">
-  <header class="header">
-    <h1 class="header__title">Hello World!</h1>
-  </header>
-  <main class="main"></main>
-  <footer class="footer"></footer>
-  <script src="./script/index.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./pages/index.css" />
+    <title>nft-marketplace</title>
+  </head>
+  <body class="page">
+    <header class="header">
+      <nav class="header__nav">
+        <img
+          class="header__logo"
+          src="./images/header/image.png"
+          alt="Логотип компании"
+        />
+        <ul class="header__lists">
+          <li class="list">
+            <a class="header__link header__link_yellow" href="#">Explore</a>
+          </li>
+          <li class="list">
+            <a class="header__link" href="#">Creators</a>
+          </li>
+          <li class="list">
+            <a class="header__link" href="#">Community</a>
+          </li>
+        </ul>
+        <button class="button header__button">Connect Wallet</button>
+      </nav>
+      <div class="header__group">
+        <div class="header__right-group">
+          <div class="header__greeting">
+            <h1 class="header__title">Explore, Buy and&nbsp;</h1>
+            <h1 class="header__title">Sell the&nbsp;</h1>
+            <h1 class="header__title header__title_yellow">Best&nbsp;</h1>
+            <h1 class="header__title header__title_yellow">NFTs!</h1>
+          </div>
+          <div class="header__buttons">
+            <button class="button header__button header__button_yellow">
+              Explore
+            </button>
+            <button class="button header__button header__button_white">
+              Create
+            </button>
+          </div>
+          <div class="header__numbers">
+            <div class="header__gr-num">
+              <p class="header__num-num">32k+</p>
+              <p class="header__num-text">Artworks</p>
+            </div>
+            <div class="header__gr-num">
+              <p class="header__num-num">20k+</p>
+              <p class="header__num-text">Auctions</p>
+            </div>
+            <div class="header__gr-num">
+              <p class="header__num-num">12k+</p>
+              <p class="header__num-text">Creators</p>
+            </div>
+          </div>
+        </div>
+        <div class="header__left-group">
+          <div class="header__card">
+            <div class="header__top-box">
+              <div class="header__top-gr">
+                <p class="header__top-text">Current bid</p>
+                <p class="header__top-title">0.99 ETH</p>
+              </div>
+              <div class="header__top-gr">
+                <p class="header__top-text">Ends in</p>
+                <p class="header__top-title">25 hrs</p>
+              </div>
+            </div>
+            <div class="header__bot-box">
+              <div class="header__bot-gr">
+                <p class="header__bot-title">Artist</p>
+                <p class="header__bot-text">@wzard</p>
+              </div>
+              <button
+                class="button header__button header__button_yellow header__button_box"
+              >
+                Start Bid
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main class="main"></main>
+    <footer class="footer"></footer>
+    <script src="./script/index.js"></script>
+  </body>
 </html>

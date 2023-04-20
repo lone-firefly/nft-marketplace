@@ -1,3 +1,12 @@
-:root{
-  --variables : 10px; /* Переменная : свойтва */ 
+:root {
+  --white: #fff;
+  --black: #000;
+  --yellow: #ffce4e;
+  --dirty-white: #b5c8db;
+  --text-white: #f5fbf2;
+  --grey: #9b9e9a;
+  --dirty-purple: #896e6e;
+  --light-purple: #76607a;
+  --purple: #8613a5;
+  --dark-purple: #3d2942;
 }
