@@ -1,0 +1,5 @@
+.auct__arr {
+  display: flex;
+  gap: 28px;
+  /* position: absolute; */
+}

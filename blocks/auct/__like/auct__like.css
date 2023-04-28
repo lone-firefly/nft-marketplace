@@ -1,0 +1,5 @@
+.auct__like {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}

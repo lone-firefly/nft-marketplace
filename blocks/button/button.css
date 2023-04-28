@@ -1,5 +1,6 @@
 .button {
   background: rgba(233, 215, 167, 0.1);
-  border: 1px solid #ffce4e;
+  border: 1px solid var(--yellow);
   cursor: pointer;
+  text-align: center;
 }

@@ -1,6 +1,8 @@
 .header__lists {
+  width: 100%;
+  max-width: 382px;
   display: flex;
-  gap: 64px;
+  justify-content: space-between;
   margin: 0;
   padding: 0;
 }

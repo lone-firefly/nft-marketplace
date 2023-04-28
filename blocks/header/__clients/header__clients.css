@@ -1,0 +1,7 @@
+.header__clients {
+  display: flex;
+  gap: 132px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 194px;
+}

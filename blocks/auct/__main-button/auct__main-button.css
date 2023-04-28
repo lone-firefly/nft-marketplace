@@ -1,0 +1,10 @@
+.auct__main-button {
+  background-color: transparent;
+  width: 257px;
+  height: 84px;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Work Sans", sans-serif;
+  margin-top: 84px;
+  justify-self: center;
+}

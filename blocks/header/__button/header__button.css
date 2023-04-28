@@ -1,8 +1,7 @@
 .header__button {
   font-size: 18px;
   font-weight: 600;
-  color: #ffce4e;
+  color: var(--yellow);
   width: 195px;
   height: 64px;
-  margin-left: 161px;
 }

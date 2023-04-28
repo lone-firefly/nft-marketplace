@@ -1,4 +1,4 @@
 .header__title_yellow {
-  color: #ffce4e;
+  color: var(--yellow);
   width: fit-content;
 }

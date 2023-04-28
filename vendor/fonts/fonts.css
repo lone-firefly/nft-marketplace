@@ -26,7 +26,6 @@
   font-family: "Oxanium";
   src: url("./Oxanium/Oxanium-Bold.ttf") format("truetype");
   src: local("Oxanium"), url("./Oxanium/Oxanium-Bold.ttf") format("truetype");
-  font-weight: 900;
   font-weight: 700;
   font-style: normal;
   font-display: swap;

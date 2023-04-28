@@ -1,0 +1,8 @@
+.auct__card {
+  width: 495px;
+  height: 691px;
+  background: #3d2942;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}

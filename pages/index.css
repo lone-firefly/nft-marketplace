@@ -22,6 +22,7 @@
 @import "../blocks/header/__link/_yellow/header__link_yellow.css";
 @import "../blocks/header/__lists/header__lists.css";
 @import "../blocks/header/__nav/header__nav.css";
+@import "../blocks/header/__nav-container/header__nav-container.css";
 @import "../blocks/header/__title/header__title.css";
 @import "../blocks/header/__title/_yellow/header__title_yellow.css";
 @import "../blocks/header/__logo/header__logo.css";
@@ -38,9 +39,42 @@
 @import "../blocks/header/__bot-title/header__bot-title.css";
 @import "../blocks/header/__bot-text/header__bot-text.css";
 @import "../blocks/header/__group/header__group.css";
+@import "../blocks/header/__round/header__round.css";
+@import "../blocks/header/__cl-logo/header__cl-logo.css";
+@import "../blocks/header/__clients/header__clients.css";
+@import "../blocks/header/__bg/header__bg.css";
+@import "../blocks/header/__yell-spot/header__yell-spot.css";
 /* List */
 @import "../blocks/list/list.css";
 /* Main */
 @import "../blocks/main/main.css";
+/* Auct */
+@import "../blocks/auct/auct.css";
+@import "../blocks/auct/__arr/auct__arr.css";
+@import "../blocks/auct/__header/auct__header.css";
+@import "../blocks/auct/__img-arr/auct__img-arr.css";
+@import "../blocks/auct/__title/auct__title.css";
+@import "../blocks/auct/__round/auct__round.css";
+
+@import "../blocks/auct/__main-button/auct__main-button.css";
+@import "../blocks/auct/__bold-text/auct__bold-text.css";
+@import "../blocks/auct/__box-text/auct__box-text.css";
+@import "../blocks/auct/__box/auct__box.css";
+@import "../blocks/auct/__button/auct__button.css";
+@import "../blocks/auct/__card/auct__card.css";
+@import "../blocks/auct/__cards/auct__cards.css";
+@import "../blocks/auct/__fst-sect/auct__fst-sect.css";
+@import "../blocks/auct/__group/auct__group.css";
+@import "../blocks/auct/__heart/auct__heart.css";
+@import "../blocks/auct/__images/auct__images.css";
+@import "../blocks/auct/__img-prof/auct__img-prof.css";
+@import "../blocks/auct/__img/auct__img.css";
+@import "../blocks/auct/__like-text/auct__like-text.css";
+@import "../blocks/auct/__like/auct__like.css";
+@import "../blocks/auct/__name/auct__name.css";
+@import "../blocks/auct/__snd-sect/auct__snd-sect.css";
+@import "../blocks/auct/__subname/auct__subname.css";
+@import "../blocks/auct/__text/auct__text.css";
+@import "../blocks/auct/__t-group/auct__t-group.css";
 /* Footer */
 @import "../blocks/footer/footer.css";

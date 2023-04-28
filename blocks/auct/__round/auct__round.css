@@ -1,0 +1,9 @@
+.auct__round {
+  position: absolute;
+  left: -40px;
+  top: -25px;
+  background-color: #8613a5;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+}

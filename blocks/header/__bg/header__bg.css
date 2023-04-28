@@ -1,0 +1,8 @@
+.header__bg {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  max-width: 1620px;
+  /* position: relative; */
+  /* position: absolute;  */
+}

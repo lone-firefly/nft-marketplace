@@ -1,6 +1,6 @@
 .header__link_yellow {
   display: block;
-  color: #ffce4e;
+  color: var(--yellow);
   height: 29px;
-  border-bottom: 2px solid #ffce4e;
+  border-bottom: 2px solid var(--yellow);
 }

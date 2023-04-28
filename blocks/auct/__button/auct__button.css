@@ -1,0 +1,12 @@
+.auct__button {
+  color: var(--white);
+  font-weight: 500;
+  font-size: 24px;
+  font-family: "Work Sans", sans-serif;
+  letter-spacing: 0.05em;
+  background-color: #e9d7a71a;
+  border: 1px solid #fde8b3;
+  width: 431px;
+  height: 78px;
+  cursor: pointer;
+}
