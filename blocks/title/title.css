@@ -1,0 +1,9 @@
+.title {
+  font-size: 64px;
+  font-family: "Oxanium", sans-serif;
+  font-weight: 700;
+  color: #f5fbf2;
+  margin: 0;
+  line-height: 130px;
+  width: fit-content;
+}

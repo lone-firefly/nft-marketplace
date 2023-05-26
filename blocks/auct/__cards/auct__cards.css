@@ -2,4 +2,8 @@
   display: flex;
   gap: 42px;
   margin-top: 42px;
+  box-sizing: border-box;
+  padding-left: 80px;
+  min-width: 1600px;
+  height: fit-content;
 }

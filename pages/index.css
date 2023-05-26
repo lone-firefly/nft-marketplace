@@ -5,6 +5,8 @@
 @import "../blocks/page/page.css";
 /* Button */
 @import "../blocks/button/button.css";
+/* Title */
+@import "../blocks/title/title.css";
 /* Header */
 @import "../blocks/header/header.css";
 @import "../blocks/header/__button/header__button.css";
@@ -43,7 +45,12 @@
 @import "../blocks/header/__cl-logo/header__cl-logo.css";
 @import "../blocks/header/__clients/header__clients.css";
 @import "../blocks/header/__bg/header__bg.css";
+@import "../blocks/header/__orange-spot/header__orange-spot.css";
+@import "../blocks/header/__red-spot/header__red-spot.css";
+@import "../blocks/header/__green-spot/header__green-spot.css";
 @import "../blocks/header/__yell-spot/header__yell-spot.css";
+@import "../blocks/header/__pink-spot/header__pink-spot.css";
+@import "../blocks/header/__white-spot/header__white-spot.css";
 /* List */
 @import "../blocks/list/list.css";
 /* Main */
@@ -76,5 +83,38 @@
 @import "../blocks/auct/__subname/auct__subname.css";
 @import "../blocks/auct/__text/auct__text.css";
 @import "../blocks/auct/__t-group/auct__t-group.css";
+/* Work */
+@import "../blocks/work/work.css";
+@import "../blocks/work/__title/work__title.css";
+@import "../blocks/work/__column/work__column.css";
+@import "../blocks/work/__desc/work__desc.css";
+@import "../blocks/work/__icon/work__icon.css";
+@import "../blocks/work/__round/work__round.css";
+@import "../blocks/work/__text/work__text.css";
+@import "../blocks/work/__vector/work__vector.css";
+@import "../blocks/work/__vector/_1/work__vector_1.css";
+@import "../blocks/work/__vector/_2/work__vector_2.css";
+@import "../blocks/work/__vector/_3/work__vector_3.css";
+@import "../blocks/work/__column/_1/work__column_1.css";
+@import "../blocks/work/__column/_2/work__column_2.css";
+@import "../blocks/work/__column/_3/work__column_3.css";
+@import "../blocks/work/__column/_4/work__column_4.css";
+@import "../blocks/work/__spot-red/work__spot-red.css";
+/* Group */
+@import "../blocks/group/__card/group__card.css";
+@import "../blocks/group/__card/_inactive/group__card_inactive.css";
+@import "../blocks/group/__cards/group__cards.css";
+@import "../blocks/group/__group/group__group.css";
+@import "../blocks/group/__header/group__header.css";
+@import "../blocks/group/__icon/group__icon.css";
+@import "../blocks/group/__img/group__img.css";
+@import "../blocks/group/__name/group__name.css";
+@import "../blocks/group/__round/group__round.css";
+@import "../blocks/group/__t-group/group__t-group.css";
+@import "../blocks/group/__text/group__text.css";
+@import "../blocks/group/__title/group__title.css";
+@import "../blocks/group/group.css";
+@import "../blocks/group/__spot-green/group__spot-green.css";
+@import "../blocks/group/__img-arr/group__img-arr.css";
 /* Footer */
 @import "../blocks/footer/footer.css";

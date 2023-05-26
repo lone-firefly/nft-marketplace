@@ -1,0 +1,10 @@
+.header__white-spot {
+  background: rgba(96, 231, 206, 0.5);
+  filter: blur(225px);
+  transform: rotate(-4.93deg);
+  width: 334px;
+  height: 188px;
+  position: absolute;
+  top: -66.36px;
+  right: -30.32px;
+}

@@ -1,0 +1,9 @@
+.work__spot-red {
+  position: absolute;
+  width: 172px;
+  height: 168px;
+  background: #d53d5c;
+  filter: blur(225px);
+  right: 493px;
+  top: 174px;
+}

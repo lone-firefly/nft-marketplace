@@ -1,0 +1,11 @@
+.header__pink-spot {
+  background: #bb00ab;
+  filter: blur(175px);
+  transform: rotate(-4.93deg);
+  width: 312px;
+  height: 312px;
+  border-radius: 50%;
+  position: absolute;
+  top: 662.56px;
+  right: 368.77px;
+}

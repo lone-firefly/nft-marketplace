@@ -1,0 +1,10 @@
+.header__orange-spot {
+  background: rgba(231, 178, 38, 0.83);
+  filter: blur(225px);
+  transform: matrix(-0.79, -0.62, 0.69, -0.73, 0, 0);
+  width: 445px;
+  height: 227.09px;
+  position: absolute;
+  top: 538.67px;
+  right: -78.26px;
+}

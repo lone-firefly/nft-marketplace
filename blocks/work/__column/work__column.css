@@ -1,0 +1,7 @@
+.work__column {
+  display: grid;
+  height: 166px;
+  width: fit-content;
+  gap: 32px;
+  justify-items: center;
+}

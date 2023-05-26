@@ -1,4 +1,10 @@
-/* .header__yell-spot {
-   position: absolute;
-   position: relative;
-}  */
+.header__yell-spot {
+  background: rgba(231, 178, 38, 0.8);
+  filter: blur(225px);
+  transform: rotate(-4.93deg);
+  width: 402px;
+  height: 208px;
+  position: absolute;
+  top: 674.58px;
+  left: -313.18px;
+}

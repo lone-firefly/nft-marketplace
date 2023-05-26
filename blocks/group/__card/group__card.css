@@ -1,0 +1,9 @@
+.group__card {
+  width: 525px;
+  height: 432px;
+  background-color: var(--dark-purple);
+  box-sizing: border-box;
+  padding: 36px;
+  display: grid;
+  gap: 24px;
+}

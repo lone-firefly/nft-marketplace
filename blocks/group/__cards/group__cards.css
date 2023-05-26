@@ -1,0 +1,8 @@
+.group__cards {
+  display: flex;
+  width: 1647px;
+  height: 432px;
+  gap: 36px;
+  margin-top: 106px;
+  align-items: center;
+}

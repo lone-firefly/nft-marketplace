@@ -2,4 +2,6 @@
   display: flex;
   gap: 195px;
   justify-content: center;
+  align-items: center;
+  height: 36px;
 }

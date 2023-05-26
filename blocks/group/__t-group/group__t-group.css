@@ -1,0 +1,7 @@
+.group__t-group {
+  position: relative;
+  height: 120px;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+}

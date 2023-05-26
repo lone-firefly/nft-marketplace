@@ -1,0 +1,10 @@
+.header__green-spot {
+  background: rgba(96, 231, 206, 0.67);
+  filter: blur(225px);
+  transform: matrix(-0.79, -0.62, 0.69, -0.73, 0, 0);
+  width: 445.87px;
+  height: 247.58px;
+  position: absolute;
+  top: 617.46px;
+  right: 187.01px;
+}

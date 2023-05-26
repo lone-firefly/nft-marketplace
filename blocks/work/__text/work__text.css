@@ -1,0 +1,8 @@
+.work__text {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  height: 28px;
+  width: fit-content;
+  color: var(--yellow);
+}

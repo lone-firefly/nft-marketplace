@@ -1,0 +1,6 @@
+.group__header {
+  display: flex;
+  height: 120px;
+  /* width: 623px; */
+  width: fit-content;
+}

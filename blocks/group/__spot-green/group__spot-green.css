@@ -1,0 +1,9 @@
+.group__spot-green {
+  position: absolute;
+  width: 180px;
+  height: 167px;
+  background: #60e7ce;
+  filter: blur(225px);
+  top: 65px;
+  left: 395px;
+}

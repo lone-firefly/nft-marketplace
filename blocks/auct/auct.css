@@ -1,14 +1,11 @@
 .auct {
-  margin-top: 76px;
-  padding-top: 108px;
+  padding-top: 80px;
   background: linear-gradient(
     336.61deg,
     #251928 16.25%,
     rgba(37, 25, 40, 0) 91.6%
   );
-  /* position: relative; 184*/
+  position: relative;
   display: grid;
-  height: 1073px;
-  padding-bottom: 160px;
-  justify-content: center;
+  height: 1233px;
 }

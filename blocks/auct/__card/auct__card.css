@@ -4,5 +4,7 @@
   background: #3d2942;
   display: grid;
   justify-content: center;
-  align-items: center;
+  box-sizing: border-box;
+  padding: 32px;
+  gap: 28px;
 }
