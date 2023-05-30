@@ -7,6 +7,13 @@
 @import "../blocks/button/button.css";
 /* Title */
 @import "../blocks/title/title.css";
+/* M-title */
+@import "../blocks/m-title/m-title.css";
+@import "../blocks/m-title/__round/m-title__round.css";
+@import "../blocks/m-title/__round/_purple/m-title__round_purple.css";
+@import "../blocks/m-title/__round/_red/m-title__round_red.css";
+@import "../blocks/m-title/__t-group/m-title__t-group.css";
+@import "../blocks/m-title/__title/m-title__title.css";
 /* Header */
 @import "../blocks/header/header.css";
 @import "../blocks/header/__button/header__button.css";
@@ -60,8 +67,6 @@
 @import "../blocks/auct/__arr/auct__arr.css";
 @import "../blocks/auct/__header/auct__header.css";
 @import "../blocks/auct/__img-arr/auct__img-arr.css";
-@import "../blocks/auct/__title/auct__title.css";
-@import "../blocks/auct/__round/auct__round.css";
 
 @import "../blocks/auct/__main-button/auct__main-button.css";
 @import "../blocks/auct/__bold-text/auct__bold-text.css";
@@ -82,7 +87,6 @@
 @import "../blocks/auct/__snd-sect/auct__snd-sect.css";
 @import "../blocks/auct/__subname/auct__subname.css";
 @import "../blocks/auct/__text/auct__text.css";
-@import "../blocks/auct/__t-group/auct__t-group.css";
 /* Work */
 @import "../blocks/work/work.css";
 @import "../blocks/work/__title/work__title.css";
@@ -109,12 +113,32 @@
 @import "../blocks/group/__icon/group__icon.css";
 @import "../blocks/group/__img/group__img.css";
 @import "../blocks/group/__name/group__name.css";
-@import "../blocks/group/__round/group__round.css";
-@import "../blocks/group/__t-group/group__t-group.css";
 @import "../blocks/group/__text/group__text.css";
-@import "../blocks/group/__title/group__title.css";
 @import "../blocks/group/group.css";
 @import "../blocks/group/__spot-green/group__spot-green.css";
 @import "../blocks/group/__img-arr/group__img-arr.css";
+@import "../blocks/group/__btn-arr/group__btn-arr.css";
+/* Explore */
+@import "../blocks/explore/__bold-text/explore__bold-text.css";
+@import "../blocks/explore/__btn/explore__btn.css";
+@import "../blocks/explore/__card/explore__card.css";
+@import "../blocks/explore/__card/_inactive/explore__card_inactive.css";
+@import "../blocks/explore/__cards/explore__cards.css";
+@import "../blocks/explore/__fst-sect/explore__fst-sect.css";
+@import "../blocks/explore/__group/explore__group.css";
+@import "../blocks/explore/__heart/explore__heart.css";
+@import "../blocks/explore/__hover/explore__hover.css";
+@import "../blocks/explore/__img-prof/explore__img-prof.css";
+@import "../blocks/explore/__img/explore__img.css";
+@import "../blocks/explore/__like-text/explore__like-text.css";
+@import "../blocks/explore/__like/explore__like.css";
+@import "../blocks/explore/__name/explore__name.css";
+@import "../blocks/explore/__snd-sect/explore__snd-sect.css";
+@import "../blocks/explore/__square/explore__square.css";
+@import "../blocks/explore/__subname/explore__subname.css";
+@import "../blocks/explore/__text/explore__text.css";
+@import "../blocks/explore/__cube/explore__cube.css";
+@import "../blocks/explore/explore.css";
+
 /* Footer */
 @import "../blocks/footer/footer.css";

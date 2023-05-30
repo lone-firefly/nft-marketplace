@@ -1,0 +1,6 @@
+.explore__cards {
+  display: flex;
+  gap: 42px;
+  width: 1786px;
+  margin-top: 84px;
+}

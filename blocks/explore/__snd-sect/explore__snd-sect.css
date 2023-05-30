@@ -1,7 +1,6 @@
-.auct__snd-sect {
+.explore__snd-sect {
   display: flex;
-  justify-content: center;
   justify-content: space-between;
-  align-items: center;
   height: 36px;
+  align-self: end;
 }

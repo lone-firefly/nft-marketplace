@@ -1,0 +1,10 @@
+.explore__card {
+  position: relative;
+  width: 415px;
+  height: 504px;
+  background-color: var(--dark-purple);
+  box-sizing: border-box;
+  padding: 32px 32px 28px 32px;
+  font-family: "Work Sans", sans-serif;
+  display: grid;
+}

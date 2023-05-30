@@ -1,0 +1,10 @@
+.explore__hover {
+  position: absolute;
+  top: 32px;
+  left: 32px;
+  opacity: 0;
+}
+
+.explore__hover:hover {
+  opacity: 1;
+}

@@ -1,0 +1,5 @@
+.explore__group {
+  display: grid;
+  gap: 8px;
+  margin-left: 12px;
+}

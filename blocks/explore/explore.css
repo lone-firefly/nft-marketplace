@@ -1,0 +1,9 @@
+.explore {
+  margin-top: 104px;
+  margin-bottom: 104px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  display: grid;
+  justify-items: center;
+  background-color: #251928;
+}

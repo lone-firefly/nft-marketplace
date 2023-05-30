@@ -1,0 +1,12 @@
+.explore__btn {
+  position: absolute;
+  top: calc(50% - 35px);
+  left: calc(50% - 123px);
+  color: var(--black);
+  font-size: 24px;
+  font-weight: 600;
+  width: 246px;
+  height: 70px;
+  margin-left: 0;
+  background-color: #ffce4e;
+}

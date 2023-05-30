@@ -1,0 +1,8 @@
+.explore__like-text {
+  margin: 0;
+  font-size: 24px;
+  color: var(--card-name);
+  height: 36px;
+  width: 29px;
+  line-height: 35.45px;
+}

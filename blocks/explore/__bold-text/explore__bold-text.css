@@ -1,0 +1,10 @@
+.explore__bold-text {
+  margin: 0;
+  font-family: "Oxanium", sans-serif;
+  font-size: 20px;
+  width: 84px;
+  height: 36px;
+  font-weight: 700;
+  color: var(--text-white);
+  line-height: 35.45px;
+}

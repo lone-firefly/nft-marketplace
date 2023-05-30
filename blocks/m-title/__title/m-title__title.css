@@ -1,0 +1,5 @@
+.m-title__title {
+  position: relative;
+  z-index: 1;
+  width: fit-content;
+}

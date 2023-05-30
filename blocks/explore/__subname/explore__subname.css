@@ -1,0 +1,7 @@
+.explore__subname {
+  margin: 0;
+  width: 105px;
+  height: 23px;
+  font-size: 18px;
+  color: var(--card-name);
+}
