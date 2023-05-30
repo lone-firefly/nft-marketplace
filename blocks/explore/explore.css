@@ -6,4 +6,6 @@
   display: grid;
   justify-items: center;
   background-color: #251928;
+  width: 100vw;
+  overflow: hidden;
 }
